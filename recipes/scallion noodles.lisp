@@ -13,3 +13,4 @@
 		"Heat oil in a pan, add scallions, and fry until crispy."
 		"Mix soy sauce, sugar, and sesame oil in a bowl. Add to noodles with scallion oil. Toss well and serve."
 	])
+))

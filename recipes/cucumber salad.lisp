@@ -7,8 +7,9 @@
 		((0.5 tsp) sugar)
 		((0.5 tsp) chili oil)
 		((to taste) salt)
-	])
+		])
 	(instructions [
 		"Combine soy sauce, vinegar, sugar, garlic, and chili oil in a small bowl."
 		"Toss cucumbers with the dressing. Let sit for 10 minutes before serving."
-		])
+	])
+))
