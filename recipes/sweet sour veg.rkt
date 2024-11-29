@@ -1,3 +1,4 @@
+#lang racket
 (recipe "sweet and sour vegetable stir fry" (
 	(description "")
 	(ingredients [

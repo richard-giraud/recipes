@@ -1,3 +1,4 @@
+#lang racket
 (recipe "garlic bok choy stir fry" (
 	(description "simple, authentic Chinese dish you can make at home that is vegan-friendly")
 	(ingredients [
